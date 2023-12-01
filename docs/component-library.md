@@ -10,17 +10,9 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 :::caution
 Heavy work in progress
-
-<!-- --- -->
-
-<div style={{ borderTop: '1px pink solid'}}></div>
-
-more content
-
 :::
 
 <div>
-
 
 :::info [Help us](contribute) track this Solution
 :::
@@ -28,12 +20,6 @@ more content
 :::question
 test
 :::
-
-
-<div style={{ backgroundColor: 'pink' }}>
-  <p>test</p>
-</div>
-
 
 </div>
 
