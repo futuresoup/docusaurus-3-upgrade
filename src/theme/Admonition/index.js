@@ -9,6 +9,7 @@ import { BiNews } from 'react-icons/bi'
 import { IoMdBusiness } from 'react-icons/io'
 import { BiDonateHeart } from 'react-icons/bi'
 import { BsBook } from 'react-icons/bs'
+import { GrInProgress } from "react-icons/gr";
 
 function NoteIcon() {
   return (
@@ -114,6 +115,15 @@ function BookIcon() {
   return (
     <BsBook
       title="Book Icon"
+      style=""
+    />
+  )
+}
+
+function TestIcon() {
+  return (
+    <GrInProgress 
+      title="Test Icon"
       style=""
     />
   )
@@ -243,6 +253,17 @@ const AdmonitionConfigs = {
         book
       </Translate>
     )
+  },
+  test: {
+    infimaClassName: 'test',
+    iconComponent: TestIcon,
+    label: (
+      <Translate
+        description='The default label used for the Test admonition (:::test)'
+      >
+        test
+      </Translate>
+    )
   }
 };
 // Legacy aliases, undocumented but kept for retro-compatibility
@@ -300,6 +321,7 @@ export default function Admonition(props) {
   const isCompanyAdmonition = type === 'company';
   const isContributeAdmonition = type === 'contribute';
   const isBookAdmonition = type === 'book';
+  const isTestAdmonition = type === 'test';
 
   const admonitionClassName = clsx(
     ThemeClassNames.common.admonition,
@@ -315,6 +337,7 @@ export default function Admonition(props) {
       [styles.company]: isCompanyAdmonition,
       [styles.contribute]: isContributeAdmonition,
       [styles.book]: isBookAdmonition,
+      [styles.test]: isTestAdmonition,
     }
   );
   return (

@@ -33,7 +33,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             showLastUpdateTime: true,
             admonitions: {
               tag: ':::',
-              keywords: ['note', 'tip', 'info', 'caution', 'danger', 'question', 'podcast', 'newsletter', 'company', 'contribute', 'book'],
+              keywords: ['note', 'tip', 'info', 'caution', 'danger', 'question', 'podcast', 'newsletter', 'company', 'contribute', 'book', 'test']
             }
           },
           blog: {

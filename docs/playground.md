@@ -10,3 +10,12 @@ A place to experiment with new code or formatting snippets.
 :::custom Admonition Title
 Your admonition content goes here.
 :::
+
+:::caution
+test
+:::
+
+:::test test title
+test
+:::
+
