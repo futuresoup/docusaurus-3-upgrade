@@ -11,11 +11,10 @@ A place to experiment with new code or formatting snippets.
 Your admonition content goes here.
 :::
 
-:::caution
-test
-:::
+<div>
 
 :::test test title
 test
 :::
 
+</div>
