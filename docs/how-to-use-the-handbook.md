@@ -63,7 +63,7 @@ Or help us financially through a small donation.
 
 <br/>
 
-:::info Remember
+:::note Remember
 If you need more tech experience for your job search
 
 Contributing to an open source project is the best way to prove yourself and gain skills

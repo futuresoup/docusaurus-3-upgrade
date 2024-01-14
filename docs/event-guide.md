@@ -2,7 +2,7 @@
 title: Climate Event Guide 
 displayed_sidebar: docSidebar
 ---
-:::caution
+:::warning
 Heavy work in progress
 [Help us](contribute) improve this page
 :::
@@ -13,7 +13,7 @@ It's easier than it sounds and the best way to get your foot in the door.
 
 --img
 
-:::info We'll cover
+:::note We'll cover
 1.
 2.
 3.

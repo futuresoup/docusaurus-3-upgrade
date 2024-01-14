@@ -2,7 +2,7 @@
 title: Replace with Page 
 displayed_sidebar: docSidebar
 ---
-:::caution
+:::warning
 Heavy work in progress
 [Help us](contribute) improve this page
 :::

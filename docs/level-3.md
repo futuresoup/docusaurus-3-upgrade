@@ -9,7 +9,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ## Definition of LEVEL 3
 
 
-:::info Level 3
+:::note Level 3
 **Stay here if you**:
 
 - Understand the basics from [Level 1](level-1) and [Level 2](level-2)
@@ -133,7 +133,7 @@ Focus on actions not outcomes.
 
 - Attend 1-3 webinars per week.
 
-:::info Best option
+:::note Best option
 [Help us write The Handbook](contribute) if you really want to become an expert!
 :::
 
@@ -174,5 +174,5 @@ Now you don't need to panic when it's time to aim even higher 🙂
 
 
 
-:::contribute [Help us](contribute) improve this page
+:::important [Help us](contribute) improve this page
 :::

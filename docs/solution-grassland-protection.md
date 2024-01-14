@@ -19,7 +19,7 @@ Image Credit: [Unsplash](https://unsplash.com/@ries_bosch)
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grassland+Protection)
 :::
 

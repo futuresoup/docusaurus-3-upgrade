@@ -5,15 +5,15 @@ displayed_sidebar: docSidebar
 
 ![soil carbon capture](../static/img/soil-carbon-capture.jpg)
 _Image credit: ([MIT Climate Portal)](https://climate.mit.edu/explainers/soil-based-carbon-sequestration)_
-:::info [Help us track this topic](contribute)
+:::note [Help us track this topic](contribute)
 [Click here to contribute content and feedback](contribute)
 :::
 
-:::company Job Board
+:::note Job Board
 [Nature Tech](https://naturetech.io/) - specifically for nature based solutions
 :::
 
-:::podcast
+:::note
 [Solving Climate Naturally](https://www.solvingclimatenaturally.com/)
 :::
 

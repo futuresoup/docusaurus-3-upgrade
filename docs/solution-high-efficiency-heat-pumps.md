@@ -19,7 +19,7 @@ pagination_prev: solutions
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=High-Efficiency+Heat+Pumps)
 :::
 

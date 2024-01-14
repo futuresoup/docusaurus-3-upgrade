@@ -94,7 +94,7 @@ Certainly, here's the overview section with a definition of utility-scale PV:
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Utility-Scale+Solar+Photovoltaics)
 :::
 

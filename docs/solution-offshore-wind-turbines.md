@@ -38,7 +38,7 @@ Learn more from [The Business Network for Offshore Wind](https://www.offshorewin
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Offshore+Wind+Turbines)
 :::
 

@@ -2,7 +2,7 @@
 title: Style Guide
 displayed_sidebar: docSidebar
 ---
-:::caution Heavy work in progress
+:::warning Heavy work in progress
 :::
 
 Until we get this formalized, please use the following as guidelines:

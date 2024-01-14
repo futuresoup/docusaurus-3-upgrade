@@ -25,7 +25,7 @@ _SICET, Biomass power plant in Ospitale di Cadore, Italy._
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biomass+Power)
 :::
 

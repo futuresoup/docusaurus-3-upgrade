@@ -27,7 +27,7 @@ _Image from the California High-Speed Rail Authority_
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=High-Speed+Rail)
 :::
 

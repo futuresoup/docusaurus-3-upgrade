@@ -23,7 +23,7 @@ _Siemens battery-electric train ([Green Car Reports](https://www.greencarreports
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Trains)
 :::
 

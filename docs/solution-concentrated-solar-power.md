@@ -26,7 +26,7 @@ Image Credit: [Unsplash](https://unsplash.com/@darmau)
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Concentrated+Solar+Power)
 :::
 

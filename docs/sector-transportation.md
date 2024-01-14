@@ -15,7 +15,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![](/../static/img/transportation.jpeg)
 
-:::company Job openings
+:::note Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Transportation&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
@@ -25,7 +25,7 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 
 ## Resources:
 
-:::info
+:::note
 - [Cipher News](https://ciphernews.com/topics/transportation)
 - [A Look at Transportation Companies](https://www.climatedrift.com/p/a-look-at-transportation-companies?utm_source=%2Fsearch%2Ftransportation&utm_medium=reader2)
 - [Climate Hype Curve: Transportation](https://www.climatedrift.com/p/climate-hype-curve-transportation?utm_source=%2Fsearch%2Ftransportation&utm_medium=reader2)

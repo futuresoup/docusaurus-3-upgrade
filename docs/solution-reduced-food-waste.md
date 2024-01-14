@@ -5,7 +5,7 @@ pagination_prev: solutions
 ---
 ![](/../static/img/reduced-food-waste.png)
 
-:::contribute Community
+:::important Community
 Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages/C01K3JV2LNQ)* channel - [Work on Climate Slack](https://workonclimate.org)
 :::
 
@@ -68,13 +68,13 @@ Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Food+Waste)
 :::
 
 ## Overview
 
-:::info Huge opportunity 
+:::note Huge opportunity 
 Reducing food waste is one of the biggest opportunities for reducing greenhouse gas emissions in the world—more than restoring forests, insulating buildings, and driving electric vehicles _combined_
 :::
 

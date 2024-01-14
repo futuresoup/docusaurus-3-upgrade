@@ -11,7 +11,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![](/../static/img/electricity.png)
 
-:::company Job openings
+:::note Job openings
 
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
 
@@ -20,7 +20,7 @@ Then come back to learn more about a specific [Solution](#solutions-in-this-sect
 
 <!--Huge opportunity admonition-->
 
-:::caution
+:::warning
 
 ### Huge learning curve
 
@@ -36,7 +36,7 @@ In addition to scaling new technologies, there are unique challenges such as:
 
 ## Resources:
 
-:::info
+:::note
 - [Cipher News](https://ciphernews.com/topics/electricity)
 :::
 
@@ -267,7 +267,7 @@ In addition to scaling new technologies, there are unique challenges such as:
 
 - - -
 
-:::info [Help us track this Sector](contribute)
+:::note [Help us track this Sector](contribute)
 
 [Click here to contribute content and feedback](contribute)
 :::

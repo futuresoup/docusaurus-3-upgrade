@@ -6,7 +6,7 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/carpooling.png)
 
-:::info [Help us track this Solution](contribute)
+:::note [Help us track this Solution](contribute)
 
 [Click here to contribute content and feedback](contribute)
 :::
@@ -28,7 +28,7 @@ pagination_prev: solutions
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Carpooling)
 :::
 

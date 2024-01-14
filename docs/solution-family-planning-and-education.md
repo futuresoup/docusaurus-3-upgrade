@@ -64,7 +64,7 @@ Image Credit: [Unsplash](https://unsplash.com/@nate_dumlao)
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Family+Planning+and+Education)
 :::
 

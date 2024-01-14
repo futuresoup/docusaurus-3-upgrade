@@ -9,7 +9,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ## Definition of LEVEL 2
 
 
-:::info Level 1
+:::note Level 1
 **Stay here if you**:
 
 - Understand the basics from [Level 1](level-1)
@@ -193,7 +193,7 @@ Also, look for episodes featuring founders from your Top 10 list of companies.
 
 The [Work on Climate Slack community](workonclimate.org) has channels based on topics and locations.
 
-:::info Example topics and locations
+:::note Example topics and locations
 - [#learn-built-environment](https://app.slack.com/client/T017M28BLSG/C033K3U1ZQR)
 
 - [#learn-food-waste](https://workonclimate.slack.com/messages/C01K3JV2LNQ)
@@ -218,5 +218,5 @@ Now on to the FINAL level:
 
 <br/>
 
-:::contribute [Help us](contribute) improve this page
+:::important [Help us](contribute) improve this page
 :::

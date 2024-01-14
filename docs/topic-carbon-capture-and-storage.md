@@ -5,7 +5,7 @@ displayed_sidebar: docSidebar
 
 ![carbon capture and storage diagram](../static/img/ccs.jpg)
 
-:::company Job openings
+:::note Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Carbon+Removal+Tech&p=0&remote=false)
 
 Then come back to learn more about this [Solution](#solutions-in-this-sector)
@@ -13,7 +13,7 @@ Then come back to learn more about this [Solution](#solutions-in-this-sector)
 
 ## Resources:
 
-:::info
+:::note
 - [MIT Climate Portal - explainer](https://climate.mit.edu/explainers/carbon-capture)
 - [Open Air Collective](https://openaircollective.com)
 - [Global CCS Institute](https://www.globalccsinstitute.com/)

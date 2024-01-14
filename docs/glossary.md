@@ -4,7 +4,7 @@ displayed_sidebar: docSidebar
 ---
 # Glossary
 
-:::info [Help us improve this page](contribute)
+:::note [Help us improve this page](contribute)
 
 [Click here to contribute content and feedback](contribute)
 :::

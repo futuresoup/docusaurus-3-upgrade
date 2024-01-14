@@ -3,11 +3,11 @@ title: Investors
 displayed_sidebar: docSidebar
 ---
 
-:::caution
+:::warning
 Heavy work in progress
 :::
 
-:::info "[Help us](../../contribute) track this Solution"
+:::note "[Help us](../../contribute) track this Solution"
 :::
 
 # Template

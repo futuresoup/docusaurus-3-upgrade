@@ -12,13 +12,13 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![](/../static/img/industry.jpg)
 
-:::company Job openings
+:::note Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Materials+%26+Manufacturing&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
 :::
 
-:::newsletter Newsletters
+:::note Newsletters
 - [Industry Decarbonization](https://industrydecarbonization.com/)
 - [Survival Club](https://survival.club)
 :::

@@ -10,34 +10,34 @@ import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagin
 
 ## Admonitions
 
-:::caution
+:::warning
 Heavy work in progress
 :::
 
-:::info [Help us](contribute) track this Solution
+:::note [Help us](contribute) track this Solution
 :::
 
-:::question
+:::important
 test
 :::
 
-:::podcast
+:::note
 test
 :::
 
-:::newsletter
+:::note
 test
 :::
 
-:::company
+:::note
 test
 :::
 
-:::contribute
+:::important
 test
 :::
 
-:::book
+:::note
 test
 :::
 

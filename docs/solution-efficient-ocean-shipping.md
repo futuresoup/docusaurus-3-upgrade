@@ -26,7 +26,7 @@ _Image Credit: [Marine Insight](https://www.marineinsight.com/maritime-law/energ
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Ocean+Shipping)
 :::
 

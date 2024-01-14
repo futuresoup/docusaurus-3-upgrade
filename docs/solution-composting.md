@@ -21,7 +21,7 @@ _Aerating a compost pile at a commercial compost facility_
         </details>
 
 
-:::company job openings
+:::note job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Composting)
 :::
 
