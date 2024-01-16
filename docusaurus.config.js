@@ -33,7 +33,7 @@ const darkCodeTheme = themes.dracula;
             showLastUpdateAuthor: false,
             showLastUpdateTime: true,
             admonitions: {
-              tag: ':::',
+              // tag: ':::',
               // keywords: ['note', 'tip', 'info', 'caution', 'danger', 'question', 'podcast', 'newsletter', 'company', 'contribute', 'book'],
               keywords: ['note', 'tip', 'warning', 'important'],
             }
