@@ -143,27 +143,27 @@ const AdmonitionConfigs = {
       </Translate>
     ),
   },
-  // danger: {
-  //   infimaClassName: 'danger',
-  //   iconComponent: DangerIcon,
-  //   label: (
-  //     <Translate
-  //       id="theme.admonition.danger"
-  //       description="The default label used for the Danger admonition (:::danger)">
-  //       danger
-  //     </Translate>
-  //   ),
-  // },
-  // info: {
-  //   infimaClassName: 'info',
-  //   iconComponent: InfoIcon,
-  //   label: (
-  //     <Translate
-  //       id="theme.admonition.info"
-  //       description="The default label used for the Info admonition (:::note)">
-  //       info
-  //     </Translate>
-  //   ),
+  danger: {
+    infimaClassName: 'danger',
+    iconComponent: DangerIcon,
+    label: (
+      <Translate
+        id="theme.admonition.danger"
+        description="The default label used for the Danger admonition (:::danger)">
+        danger
+      </Translate>
+    ),
+  },
+  info: {
+    infimaClassName: 'info',
+    iconComponent: InfoIcon,
+    label: (
+      <Translate
+        id="theme.admonition.info"
+        description="The default label used for the Info admonition (:::note)">
+        info
+      </Translate>
+    ),
   // },
   // caution: {
   //   infimaClassName: 'warning',
@@ -244,7 +244,8 @@ const AdmonitionConfigs = {
   //     </Translate>
   //   )
   // }
-};
+  }
+}
 // Legacy aliases, undocumented but kept for retro-compatibility
 const aliases = {
   secondary: 'note',

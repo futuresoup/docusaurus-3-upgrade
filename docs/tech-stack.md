@@ -2,7 +2,7 @@
 
 ## We are using or considering the following tools
 
-Name   | Use | Status | Price { class="compact" }
+Name   | Use | Status | Price \{ class="compact" }
 ---    | --- | --- | ---
 Retype | Website | ✅ | Free
 GitHub | CMS, Community | ✅ | Free
