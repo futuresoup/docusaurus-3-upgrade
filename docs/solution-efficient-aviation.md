@@ -62,7 +62,7 @@ _Image Credit: [Financial Times](https://www.ft.com/content/a9dc81d2-725e-11e9-b
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Aviation)
 :::
 

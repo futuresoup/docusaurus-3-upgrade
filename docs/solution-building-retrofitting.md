@@ -45,7 +45,7 @@ _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Retrofitting)
 :::
 

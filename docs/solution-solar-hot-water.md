@@ -64,7 +64,7 @@ Here's your text with markdown syntax:
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Solar+Hot+Water)
 :::
 

@@ -2,7 +2,7 @@
 title: Hard Questions
 displayed_sidebar: docSidebar
 ---
-:::warning Heavy work in progress
+:::caution Heavy work in progress
 
   *[Join us](../contribute) to help fill out this content*
 :::

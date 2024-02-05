@@ -67,7 +67,7 @@ _Methane capture process ([EPA](https://archive.epa.gov/climatechange/kids/solut
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Landfill+Methane+Capture)
 :::
 

@@ -5,7 +5,7 @@ displayed_sidebar: docSidebar
 
 ![Solar Panels](/img/solar-panels.jpg)
 
-:::important Communities
+:::contribute Communities
 
 - Reddit [/r/solar]
 

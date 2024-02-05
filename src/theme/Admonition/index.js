@@ -160,92 +160,91 @@ const AdmonitionConfigs = {
     label: (
       <Translate
         id="theme.admonition.info"
-        description="The default label used for the Info admonition (:::note)">
+        description="The default label used for the Info admonition (:::info)">
         info
       </Translate>
     ),
-  // },
-  // caution: {
-  //   infimaClassName: 'warning',
-  //   iconComponent: CautionIcon,
-  //   label: (
-  //     <Translate
-  //       id="theme.admonition.caution"
-  //       description="The default label used for the Caution admonition (:::warning)">
-  //       caution
-  //     </Translate>
-  //   ),
-  // },
-  // question: {
-  //   infimaClassName: 'question',
-  //   iconComponent: QuestionIcon,
-  //   label: (
-  //     <Translate
-  //       // id="theme.admonition.question"
-  //       description='The default label used for the Question admonition (:::important)'
-  //     >
-  //       question
-  //     </Translate>
-  //   )
-  // },
-  // podcast: {
-  //   infimaClassName: 'podcast',
-  //   iconComponent: PodcastIcon,
-  //   label: (
-  //     <Translate
-  //       description='The default label used for the Podcast admonition (:::note)'
-  //     >
-  //       podcast
-  //     </Translate>
-  //   )
-  // },
-  // newsletter: {
-  //   infimaClassName: 'newsletter',
-  //   iconComponent: NewsletterIcon,
-  //   label: (
-  //     <Translate
-  //       description='The default label used for the Newsletter admonition (:::note)'
-  //     >
-  //       newsletter
-  //     </Translate>
-  //   )
-  // },
-  // company: {
-  //   infimaClassName: 'company',
-  //   iconComponent: CompanyIcon,
-  //   label: (
-  //     <Translate
-  //       description='The default label used for the Company admonition (:::note)'
-  //     >
-  //       company
-  //     </Translate>
-  //   )
-  // },
-  // contribute: {
-  //   infimaClassName: 'contribute',
-  //   iconComponent: ContributeIcon,
-  //   label: (
-  //     <Translate
-  //       description='The default label used for the Contribute admonition (:::important)'
-  //     >
-  //       contribute
-  //     </Translate>
-  //   )
-  // },
-  // book: {
-  //   infimaClassName: 'book',
-  //   iconComponent: BookIcon,
-  //   label: (
-  //     <Translate
-  //       // id="theme.admonition.book"
-  //       description='The default label used for the Book admonition (:::note)'
-  //     >
-  //       book
-  //     </Translate>
-  //   )
-  // }
+  },
+  caution: {
+    infimaClassName: 'warning',
+    iconComponent: CautionIcon,
+    label: (
+      <Translate
+        id="theme.admonition.caution"
+        description="The default label used for the Caution admonition (:::caution)">
+        caution
+      </Translate>
+    ),
+  },
+  question: {
+    infimaClassName: 'question',
+    iconComponent: QuestionIcon,
+    label: (
+      <Translate
+        // id="theme.admonition.question"
+        description='The default label used for the Question admonition (:::question)'
+      >
+        question
+      </Translate>
+    )
+  },
+  podcast: {
+    infimaClassName: 'podcast',
+    iconComponent: PodcastIcon,
+    label: (
+      <Translate
+        description='The default label used for the Podcast admonition (:::podcast)'
+      >
+        podcast
+      </Translate>
+    )
+  },
+  newsletter: {
+    infimaClassName: 'newsletter',
+    iconComponent: NewsletterIcon,
+    label: (
+      <Translate
+        description='The default label used for the Newsletter admonition (:::newsletter)'
+      >
+        newsletter
+      </Translate>
+    )
+  },
+  company: {
+    infimaClassName: 'company',
+    iconComponent: CompanyIcon,
+    label: (
+      <Translate
+        description='The default label used for the Company admonition (:::company)'
+      >
+        company
+      </Translate>
+    )
+  },
+  contribute: {
+    infimaClassName: 'contribute',
+    iconComponent: ContributeIcon,
+    label: (
+      <Translate
+        description='The default label used for the Contribute admonition (:::contribute)'
+      >
+        contribute
+      </Translate>
+    )
+  },
+  book: {
+    infimaClassName: 'book',
+    iconComponent: BookIcon,
+    label: (
+      <Translate
+        // id="theme.admonition.book"
+        description='The default label used for the Book admonition (:::book)'
+      >
+        book
+      </Translate>
+    )
   }
-}
+};
 // Legacy aliases, undocumented but kept for retro-compatibility
 const aliases = {
   secondary: 'note',

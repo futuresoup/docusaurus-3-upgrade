@@ -3,7 +3,7 @@ title: Role - Product Manager
 displayed_sidebar: docSidebar
 ---
 
-:::important
+:::question
 What's different about being a PM in climate?
 :::
 
@@ -14,7 +14,7 @@ What's different about being a PM in climate?
 
 <!-- --Toby's advice about a solution within a more traditional company ??? -->
 
-:::warning
+:::caution
 Heavy work in progress
 [Help us](contribute) improve this page
 :::

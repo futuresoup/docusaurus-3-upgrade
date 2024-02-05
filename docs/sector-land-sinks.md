@@ -7,14 +7,14 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 248.2–392.7 Gigatons will be saved from our [carbon budget](../glossary#carbon-budget)
+:::tip 248.2–392.7 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/land-sinks.jpg)
 
 Land sinks are a type of carbon sequestration that refers to the capture and storage of carbon dioxide on natural land, through trees, soil, and other native habitats.
 
-:::note Top resource
+:::info Top resource
 
 - [The Forest Tech Landscape](https://kodama.ai/blog-/foresttech2023) - by Kodama
 :::

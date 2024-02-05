@@ -8,7 +8,7 @@ hide_table_of_contents: false
 
 ![](/../static/img/advocacy-and-policy.jpg)
 
-:::note Job openings
+:::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Advocacy+or+Policy&p=0&remote=false)
 
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
@@ -23,7 +23,7 @@ We also need policies to support research, deployment, and public education for 
 
 The Inflation Reduction Act of 2022 is the largest investment in climate action in U.S. history, with [$369 billion](https://www.usatoday.com/story/money/2023/05/25/guide-to-the-inflation-reduction-act/70249464007/) in energy security and climate change resilience investments.
 
-:::important
+:::question
 What is the impact of these policies?
 :::
 This is being tracked in two places:

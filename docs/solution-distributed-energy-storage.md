@@ -6,7 +6,7 @@ pagination_prev: solutions
 
 ![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)
 
-:::important Community
+:::contribute Community
 [Join DER Task Force](https://dertaskforce.com/) on Slack
 :::
 
@@ -59,7 +59,7 @@ pagination_prev: solutions
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
 :::
 

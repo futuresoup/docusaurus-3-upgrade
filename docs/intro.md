@@ -1,5 +1,5 @@
 ---
-title: Get started
+title: Start Learning
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
@@ -15,23 +15,23 @@ _Climate Action Venn Diagram - by [Ayana Elizabeth Johnson](https://www.ayanaeli
 
 ### Humanity needs you right now.
 
-note the hard reality
+:::note the hard reality
 
 - **We only have about 5 years** - until we hit 1.5C average warming. <!--make url-->
 - **We are way off target** - we need to reduce greenhouse pollution by 50% before 2030, and 100% before 2050.
 - **People are suffering** - [5 million deaths per year](https://www.sciencealert.com/abnormal-temperatures-could-already-account-for-5-million-deaths-a-year) and [billions of economic damage](https://www.npr.org/2023/11/14/1206506962/climate-change-affects-your-life-in-3-big-ways-a-new-report-warns) already.
-
+:::
 
 It's easy to feel powerless and overwhelmed.
 
 _but guess what..._
 
-tip there is hope
+:::tip there is hope
 ## It's not all bad news!
 - **There are over 4,000 companies** - solving the climate crisis
 - **Many of these organizations are hiring** - and will continue to hire
 - **Hundreds of billions of dollars** - are being poured into this problem, and more money is coming
-
+:::
 
 <!--add emojis?-->
 
@@ -61,7 +61,7 @@ There is a path to solving this crisis and landing a job you love.
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="How to use the Handbook"
-    description="Start with a simple framework"
+    description="An introduction to our free one hour mini-course"
     imageUrl="/img/starting-line.jpg"
     linkUrl="../how-to-use-the-handbook"
     />

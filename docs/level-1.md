@@ -14,7 +14,7 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 
 ## Definition of LEVEL 1
 
-:::note Level 1
+:::info Level 1
 **Stay here if you**:
 
 - Know very little about what "[climate tech](#what-is-climate-tech)" means
@@ -69,7 +69,7 @@ There is both a **broad definition**,
 
 as well as a Silicon Valley style **industry definition**.
 
-:::note a broad definition
+:::book a broad definition
 Any form of technology that will help us implement our climate goals, particularly the 1.5C goal which requires:
 
 - 50% emission reduction by 2030
@@ -78,10 +78,11 @@ Any form of technology that will help us implement our climate goals, particular
 
 #### A Silicon Valley style industry definition:
 
-:::note rough industry definition:
+:::book rough industry definition:
 
 A recent financial movement to invest in startups that are focused on a particular solution to the climate emergency.
-:::note
+:::
+
 #### Climate tech vs Clean tech:
 
 First - **fixing climate is a subset** within a broader circle of clean technologies.
@@ -102,7 +103,7 @@ Climate tech can be seen as a "Clean tech Version 2.0" the 2020s.
 
 ## What is a climate job like?
 
-:::important Frequently Asked Questions
+:::question Frequently Asked Questions
 - [How well does it pay?](#how-well-does-it-pay)
 
 - [How do I learn the necessary skills?](#how-do-i-learn-the-necessary-skills)
@@ -126,11 +127,14 @@ You will be dealing with a lot of early stage startups.
 
 Roughly 3,000+ companies / organizations exist in our current database.
 
-:::note Most often
+Most often:
 - **Early stage startups tend to pay lower salaries** in exchange for generous equity packages.
 
 - **That said, climate startups want to attract quality talent** and hopefully understand that competitive pay is important.
-:::
+
+### Hi everybody!
+
+This is my special section
 
 #### Established companies:
 
@@ -161,7 +165,7 @@ There are plenty of government jobs <!--governmentjobs.com example urls-->
 :::
 
 ---
-:::important
+:::question
 ##  How do I learn the necessary skills?
 :::
 
@@ -182,7 +186,7 @@ There are [plenty of jobs](https://climatetechlist.com) that have the same roles
 
 What if you don't have tech experience?
 
-:::note Experience gap
+:::info Experience gap
 #### If you are new to tech without 3+ years of experience
 
 [You can contribute](contribute) to the Handbook as an open source project to gain experience quickly
@@ -199,7 +203,7 @@ Next is domain knowledge.
 :::
 ---
 
-:::important
+:::question
 ###  How secure are these jobs?
 :::
 
@@ -217,7 +221,7 @@ As we [continue writing the Handbook together](contribute), we will better be tr
 
 ---
 
-:::important
+:::question
 ### How much do I need to know about climate science and politics?
 :::
 
@@ -237,7 +241,7 @@ For example, a solution involving the [electrical](sector-electricity) grid can 
 
 ---
 
-:::important
+:::question
 ###  How do I avoid greenwashing?
 :::
 
@@ -251,7 +255,7 @@ For example, a solution involving the [electrical](sector-electricity) grid can 
 
 ## Fundamental Climate Knowledge
 
-:::note If you already know this
+:::info If you already know this
 Skip to:
 - [Solution Frameworks](#solution-frameworks)
 
@@ -358,7 +362,7 @@ Rather than a big list of 93 Solutions ranked by gigaton reduction, the Speed an
 Here is Speed and Scale's [official OKR Tracker](https://speedandscale.com/tracker/)
 :::
 
-:::important
+:::question
 #### Which framework to use?
 :::
 
@@ -374,7 +378,7 @@ Speed and Scale has a great OKR system that is time bound and uses very specific
 
 There are [26 Slack communities listed here](https://www.climatefinance.xyz/climate-slack-communities).
 
-Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions ()
+Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions.
 
 **Here are 3 to start with:**
 
@@ -417,7 +421,7 @@ The MCJ Collective are investors themselves.
 
 MCJ stands for My Climate Journey
 
-:::note
+:::podcast
 They have a [great podcast here](https://www.mcjcollective.com/media/podcast)
 :::
 
@@ -446,5 +450,5 @@ Now on to the next level:
 
 <br/>
 
-:::important [Help us](contribute) improve this page
+:::contribute [Help us](contribute) improve this page
 :::

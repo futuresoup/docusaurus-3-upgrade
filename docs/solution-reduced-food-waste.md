@@ -5,7 +5,7 @@ pagination_prev: solutions
 ---
 ![](/../static/img/reduced-food-waste.png)
 
-:::important Community
+:::contribute Community
 Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages/C01K3JV2LNQ)* channel - [Work on Climate Slack](https://workonclimate.org)
 :::
 
@@ -68,13 +68,13 @@ Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Food+Waste)
 :::
 
 ## Overview
 
-:::note Huge opportunity 
+:::info Huge opportunity 
 Reducing food waste is one of the biggest opportunities for reducing greenhouse gas emissions in the world—more than restoring forests, insulating buildings, and driving electric vehicles _combined_
 :::
 
@@ -87,6 +87,10 @@ Reducing food waste is one of the biggest opportunities for reducing greenhouse 
 * Leading initiatives: **Ugly Fruit and Veg Campaign**, **Waste Not Want Not**, **Feeding America**.
 
 ## Progress Made
+
+Here's an example of using anaerobic digestion:
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameBorder="0" height="175" style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://player.simplecast.com/3bd0286c-c673-4eae-97bf-2efb427f3fd8?dark=true&wmode=opaque" />
 
 * **Awareness**: Growing realization about the role of food waste in climate change.
 * **Innovations**:

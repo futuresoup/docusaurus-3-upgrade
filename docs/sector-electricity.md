@@ -6,12 +6,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary#carbon-budget)
+:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/electricity.png)
 
-:::note Job openings
+:::company Job openings
 
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
 
@@ -20,7 +20,7 @@ Then come back to learn more about a specific [Solution](#solutions-in-this-sect
 
 <!--Huge opportunity admonition-->
 
-:::warning
+:::caution
 
 ### Huge learning curve
 
@@ -36,7 +36,7 @@ In addition to scaling new technologies, there are unique challenges such as:
 
 ## Resources:
 
-:::note
+:::info
 - [Cipher News](https://ciphernews.com/topics/electricity)
 :::
 
@@ -267,7 +267,7 @@ In addition to scaling new technologies, there are unique challenges such as:
 
 - - -
 
-:::note [Help us track this Sector](contribute)
+:::info [Help us track this Sector](contribute)
 
 [Click here to contribute content and feedback](contribute)
 :::

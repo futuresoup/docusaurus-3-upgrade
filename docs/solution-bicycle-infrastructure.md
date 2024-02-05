@@ -60,7 +60,7 @@ Image Credit: [Unsplash](https://unsplash.com/@seanbenesh)
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Bicycle+Infrastructure)
 :::
 

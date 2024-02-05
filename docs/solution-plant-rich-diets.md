@@ -7,7 +7,7 @@ pagination_prev: solutions
 
 *Plant-Rich Diets ([ESRAG](https://esragdev.com/project/plant-rich-diets/))*
 
-:::note success 🏅Ranked in the top 5 most effective climate solutions on the planet.
+:::info success 🏅Ranked in the top 5 most effective climate solutions on the planet.
  With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdown Goal, supporting meat alternatives are the 2nd highest out of 93 total [Project Drawdown Solutions](solutions).
 :::
 
@@ -52,7 +52,7 @@ pagination_prev: solutions
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Plant-Rich+Diets)
 :::
 

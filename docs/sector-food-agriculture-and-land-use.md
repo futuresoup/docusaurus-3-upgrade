@@ -7,12 +7,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 226.5–312 Gigatons will be saved from our [carbon budget](../glossary#carbon-budget)
+:::tip 226.5–312 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/food-agriculture-and-land-use.jpg)
 
-:::note Job openings
+:::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Food%2C+Agriculture%2C+%26+Land+Use&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
@@ -26,7 +26,7 @@ Beyond decreasing its emissions, it also presents opportunities for carbon captu
 
 ## Resources:
 
-:::note
+:::info
 - [A Look at Food & Agriculture](https://www.climatedrift.com/p/a-look-at-food-and-agriculture?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2)
 - [The Complete Guide to Alternative-Proteins](https://www.climatedrift.com/p/the-complete-guide-to-alternative?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2)
 :::
