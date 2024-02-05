@@ -25,11 +25,11 @@ _Packing peanuts made from bioplastics (thermoplastic starch) ([Wikipedia](https
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Bioplastics)
 :::
 
-:::note Resources
+:::info Resources
 - [Great overview by Climate Tech Distillery](https://www.climatetechdistillery.com/p/19-bioplastics)
 :::
 

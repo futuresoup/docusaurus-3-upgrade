@@ -7,12 +7,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 1.4–3 Gigatons will be saved from our [carbon budget](../glossary#carbon-budget)
+:::tip 1.4–3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 :::
 
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
 
-:::note Job openings
+:::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Carbon+Removal+Tech&p=0&remote=false)
 
 Then come back to learn more about this [Solution](#solutions-in-this-sector)

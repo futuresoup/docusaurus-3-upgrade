@@ -23,7 +23,7 @@ _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://ww
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biochar+Production)
 :::
 
@@ -32,6 +32,8 @@ _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://ww
 Biochar retains most of the carbon produced by decomposing biomass.
 
 Significant progress has been made toward efficient biochar production methods, carbon capture and storage, and emission-reducing agricultural practices. Organizations like the Biochar Industry Consortium, International Biochar Initiative, Carbon Sequestration Leadership Forum, and Climate Change Mitigation Initiative have been at the forefront of this solution.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zFX1mOsg36w?si=H_P0WZ7XFclD1Nvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Progress Made
 

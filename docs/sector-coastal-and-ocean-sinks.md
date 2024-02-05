@@ -8,12 +8,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 6.3-10 Gigatons will be saved from our [carbon budget](../glossary#carbon-budget)
+:::tip 6.3-10 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 :::
 
 ![](/../static/img/coastal-and-ocean-sinks.png)
 
-:::note Job openings
+:::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Coastal+%26+Ocean+Sinks&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
@@ -23,7 +23,7 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 
 Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide from the atmosphere, also known as "blue carbon".
 
-<!-- :::note Job Board
+<!-- :::info Job Board
 [Nature Tech](https://naturetech.io/) - specifically for nature based solutions
 ::: -->
 

@@ -24,7 +24,7 @@ Of course, I understand. Here's the summary of your article on small hydropower 
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Small+Hydropower)
 :::
 

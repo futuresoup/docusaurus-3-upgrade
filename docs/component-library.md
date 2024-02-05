@@ -3,41 +3,40 @@ title: Component Library
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
-
 import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
 
 <a href="https://www.example.com" class="doc-button">Button</a>
 
 ## Admonitions
 
-:::warning
+:::caution
 Heavy work in progress
 :::
 
-:::note [Help us](contribute) track this Solution
+:::info [Help us](contribute) track this Solution
 :::
 
-:::important
+:::question
 test
 :::
 
-:::note
+:::podcast
 test
 :::
 
-:::note
+:::newsletter
 test
 :::
 
-:::note
+:::company
 test
 :::
 
-:::important
+:::contribute
 test
 :::
 
-:::note
+:::book
 test
 :::
 
@@ -82,6 +81,12 @@ test
   sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
   src="https://player.simplecast.com/48f461ac-a9c3-4c9e-8288-207b588d8a60?dark=true&wmode=opaque"
 />
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameBorder="0" height="175" style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://player.simplecast.com/c0a97991-908c-49ab-a4d5-f2002f6b163b?dark=true&wmode=opaque" />
+
+## YouTube embed
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zFX1mOsg36w?si=H_P0WZ7XFclD1Nvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 

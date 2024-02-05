@@ -25,7 +25,7 @@ _Krafla, a geothermal power station in Iceland_
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Geothermal+Power)
 :::
 

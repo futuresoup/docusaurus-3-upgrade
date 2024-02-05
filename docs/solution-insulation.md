@@ -24,7 +24,7 @@ Sure, here's a concise summary in bullet points:
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Insulation)
 :::
 

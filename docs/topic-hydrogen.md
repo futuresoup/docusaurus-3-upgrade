@@ -3,7 +3,7 @@ title: Hydrogen
 displayed_sidebar: docSidebar
 ---
 
-:::note Job Boards
+:::company Job Boards
 - [H2 Jobs](https://h2-jobs.com/)
 - [Climate Tech List](https://www.climatetechlist.com/search/text/hydrogen) - search for Hydrogen
 :::
@@ -15,7 +15,7 @@ displayed_sidebar: docSidebar
 - [Hydrogen Council](https://hydrogencouncil.com/en/) (pro hydrogen)
 :::
 
-:::note Podcast
+:::podcast Podcast
 - [The Hydrogen Podcast](https://podcasts.apple.com/us/podcast/the-hydrogen-podcast/id1560907194)
 :::
 

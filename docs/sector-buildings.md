@@ -7,12 +7,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 72-144.3 Gigatons will be saved from our [carbon budget](../glossary#carbon-budget)
+:::tip 72-144.3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 :::
 
 ![](/../static/img/buildings.jpg)
 
-:::note Job openings
+:::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Buildings&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
@@ -20,7 +20,7 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
-:::important Community
+:::contribute Community
 Meet people in the *[#learn-built-environment](https://app.slack.com/client/T017M28BLSG/C033K3U1ZQR)* channel - [Work on Climate Slack](https://workonclimate.org)
 :::
 
@@ -28,7 +28,7 @@ Buildings account for nearly 40% of global energy consumption and around one-thi
 
 ## Resources:
 
-:::note
+:::info
 - [A Look at Building Companies](https://www.climatedrift.com/p/a-look-at-building-companies?utm_source=%2Fsearch%2Finsulation&utm_medium=reader2)
 - [Use Toasters and Bricks to Reduce Global Emissions](https://www.climatedrift.com/p/how-to-use-toasters-and-bricks-to)
 :::

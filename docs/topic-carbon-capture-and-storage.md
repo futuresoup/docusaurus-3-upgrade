@@ -5,7 +5,7 @@ displayed_sidebar: docSidebar
 
 ![carbon capture and storage diagram](../static/img/ccs.jpg)
 
-:::note Job openings
+:::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Carbon+Removal+Tech&p=0&remote=false)
 
 Then come back to learn more about this [Solution](#solutions-in-this-sector)
@@ -13,7 +13,7 @@ Then come back to learn more about this [Solution](#solutions-in-this-sector)
 
 ## Resources:
 
-:::note
+:::info
 - [MIT Climate Portal - explainer](https://climate.mit.edu/explainers/carbon-capture)
 - [Open Air Collective](https://openaircollective.com)
 - [Global CCS Institute](https://www.globalccsinstitute.com/)
@@ -46,3 +46,7 @@ Then come back to learn more about this [Solution](#solutions-in-this-sector)
 * Internships: CCS-focused companies, environmental NGOs, and research institutions often offer internships.
 * Networking: Join industry associations, attend environmental conferences, and connect with professionals in the sector.
 * Entry-level Positions: Consider roles in research labs, CCS technology companies, or environmental consultancies.
+
+## Additional Notes:
+
+- [One of the fastest growing carbon removal technologies](https://www.climatetechdistillery.com/p/01-direct-air-capture-dac) - _ClimateDrift_

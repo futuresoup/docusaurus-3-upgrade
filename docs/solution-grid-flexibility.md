@@ -10,7 +10,7 @@ authors:
 ![Cover Image](../static/img/grid-flexibility.jpg)
 *Image from the [Alliance for an Energy Efficient Economy](https://aeee.in/why-indian-grid-operators-need-to-acknowledge-demand-flexibility-for-optimal-grid-operation/) in India*
 
-<!-- :::note
+<!-- :::company
 Check out [Voltus](https://voltus.co) - a demand response software tool
 ::: -->
 
@@ -39,7 +39,7 @@ Check out [Voltus](https://voltus.co) - a demand response software tool
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grid+Flexibility)
 :::
 
@@ -56,7 +56,7 @@ Grid flexibility refers to the capability of the electric grid to accommodate di
 
 ## Demand Response
 
-:::note Definition
+:::book Definition
 A **Demand Response** program is an agreement between an electricity consumer and - typically - a utility, that allows the utility to "turn down" the power consumption of a distributed energy resources (DER) during times of peak load.
 :::
 
@@ -64,7 +64,7 @@ For example, imagine that it's 6:00 PM on a 110-degree day in Tucson, AZ in the 
 
 ## Virtual Power Plant
 
-:::note definition
+:::book definition
 A **Virtual Power Plant (VPP)** is a network of decentralized, medium-scale, power-generating units such as wind farms, solar parks, and combined-heat-and-power units, as well as flexible power consumers and storage systems. 
 :::
 

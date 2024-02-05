@@ -21,7 +21,7 @@ pagination_prev: solutions
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Dynamic+Glass)
 :::
 

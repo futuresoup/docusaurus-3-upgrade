@@ -40,8 +40,13 @@ pagination_prev: solutions
         </details>
 
 
-:::note job openings
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
+:::
+
+:::info Resources 
+- [A Look at Industry](https://climatedrift.substack.com/p/a-look-at-industry) - Climate Drift
+- [Carbon-Neutral Cement: Decarbonizing the main building material to eliminate 8% of global CO2 emissions](https://www.climatetechdistillery.com/p/carbon-neutral-cement) - Climate Tech Distillery
 :::
 
 ## Overview
